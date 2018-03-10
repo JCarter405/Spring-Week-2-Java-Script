@@ -11,7 +11,7 @@ while(beers > 0){
 		console.log(beers + " bottles of beer");
 		console.log("You take one down, you pass it around.");
 		beers--;
-		console.log(beers + " bottles of beer on the wall"); 
+		console.log(beers + " bottles of beer on the wall\n"); 
 			// beers = beers - 1; // does the same thing as beers --;
 			// beers = beers + 1; // does the same thing as beers ++;
 } else {
