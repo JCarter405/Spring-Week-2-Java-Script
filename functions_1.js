@@ -6,7 +6,7 @@ var printVerse = function (num){
 
 	console.log(num + " " + name + " bottles of beer on the wall");
 	console.log(num + " " + name + " of beer");
-	console.log("You take one down, you pass it around.");
+	console.log("You take one down, you pass it around.");.e
 	num--;
 	console.log(num + " bottles of beer on the wall\n");
 }
